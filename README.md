@@ -88,7 +88,8 @@
 ## 챗 GPT API 란?
 
 <image src="https://github.com/mad-hwangsu/Client/assets/63749140/0feea810-ff4a-48d7-a107-265975516900" />
-<br/>
+
+
 OpenAI의 ChatGPT API는 GPT-3 기반의 대화형 AI를 쉽게 사용할 수 있도록 제공하는 인터페이스입니다. 이 API를 사용하면 사용자의 메시지나 프롬프트에 대해 모델의 응답을 받을 수 있습니다.
 
 기본적으로 ChatGPT API는 다음과 같은 정보를 포함하는 메시지 리스트를 받아 처리합니다:
