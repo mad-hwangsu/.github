@@ -86,7 +86,7 @@
 <image src="https://github.com/mad-hwangsu/Client/assets/63749140/66c90d5d-e032-4cf2-8d14-384d78be9f80" />
 
 
-## 챗 GPT API 란?
+## ChatGPT API란?
 
 <image src="https://github.com/mad-hwangsu/Client/assets/63749140/0feea810-ff4a-48d7-a107-265975516900" />
 
