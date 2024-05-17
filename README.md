@@ -17,11 +17,6 @@
 
 ## 화면 소개
 
-### 초기 화면
-<image src="https://github.com/yihwanggeun/TeamFinder/assets/63749140/600647aa-bb28-4000-8087-f8d09c8cc795" />
-
----
-
 ### 로그인 / 회원가입 화면
 <image src="https://github.com/mad-hwangsu/Client/assets/63749140/6e35be08-c4d8-47c9-aa54-80d0667d636c" />
 <br/>
